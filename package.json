@@ -1,0 +1,37 @@
+{
+   "name":"iobroker.test",
+   "version":"1.1.0",
+   "description":"Test adapter for ioBroker",
+   "author":{
+      "name":"Hufnagl Oliver",
+      "email":"mail@dmxface.at"
+   },
+   "homepage":"https://github.com/tomcat4x/ioBroker.test",
+   "license":"MIT",
+   "keywords":[
+      "ioBroker",
+      "dmxface",
+      "DMXfaceXP",
+      "Media controller",
+      "Smart Home",
+      "home automation"
+   ],
+   "repository":{
+      "type":"git",
+      "url":"https://github.com/tomcat4x/ioBroker.test"
+   },
+   "dependencies":{
+      "@iobroker/adapter-core":"^1.0.3"
+   },
+   "devDependencies":{
+
+   },
+   "main":"main.js",
+   "scripts":{
+
+   },
+   "bugs":{
+      "url":"https://github.com/tomcat4x/ioBroker.test/issues"
+   },
+   "readmeFilename":"README.md"
+}
